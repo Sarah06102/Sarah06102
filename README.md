@@ -1,7 +1,7 @@
 # Hi, I'm Sarah Hussain 👋
 
-I'm passionate about building tools that are practical, user-friendly, and powered by AI.  
-Currently studying **Management Engineering @ University of Waterloo** and interested in **finance, product, and systems thinking**.
+I'm passionate about building thoughtful, user-centered tools that solve real problems through technology.  
+Currently studying **Management Engineering @ University of Waterloo**, with interests in **software development, product strategy, and systems thinking**.
 
 ## About Me
 
