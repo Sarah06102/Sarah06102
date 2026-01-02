@@ -1,21 +1,21 @@
 # Hi, I'm Sarah Hussain 👋
 
-I'm passionate about building thoughtful, user-centered tools that solve real problems through technology.  
+I'm passionate about building thoughtful and user-centered tools that solve real problems through technology.  
 Currently studying **Management Engineering @ University of Waterloo**, with interests in **software development, product strategy, and systems thinking**.
 
 ## About Me
 
 - Management Engineering student at the University of Waterloo
 - Passionate about building tech-driven tools that solve real-world problems
-- Worked on full-stack apps, chrome extensions, and data dashboards
+- Built full-stack apps, chrome extensions, and data dashboards
 - Enjoy building tools that combine frontend, backend, and data workflows
-- Actively seeking software or product roles on high-impact, fast-moving teams
+- Actively seeking software or product roles on high-impact teams
 
 ## Skills
 
-**Languages:** JavaScript, Python, SQL, HTML/CSS, TypeScript  
+**Languages:** JavaScript, Python, SQL, HTML/CSS, TypeScript, R  
 **Frameworks & Libraries:** React, Django, Node.js, Express.js, Tailwind CSS, Firebase  
-**Tools:** Git, GitHub, Figma, Vercel, Render  
+**Tools:** Git, GitHub, Figma, Vercel, Render, AWS  
 **Currently Learning:** Java, PyTorch
 
 ## Let's Connect!
