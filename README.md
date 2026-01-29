@@ -13,13 +13,13 @@ Currently studying **Management Engineering @ University of Waterloo**, with int
 
 ## Skills
 
-**Languages:** JavaScript, Python, SQL, HTML/CSS, TypeScript, R  
-**Frameworks & Libraries:** React, Django, Node.js, Express.js, Tailwind CSS, Firebase  
-**Tools:** Git, GitHub, Figma, Vercel, Render, AWS  
-**Currently Learning:** Java, PyTorch
+**Languages:** JavaScript, Python, SQL, HTML/CSS, TypeScript, R, Java, VBA  
+**Frameworks & Libraries:** React, React Native, Django, Node.js, Express.js, Tailwind CSS
+**Tools:** Git, AWS, Firebase, Figma, Vercel, Render, Railway, GitHub
+**Currently Learning:** PyTorch
 
 ## Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/sarah-hussain01/)
-- [Personal Website](https://sarah-hussain-portfolio.vercel.app/)
+- [Portfolio](https://sarah-hussain-portfolio.vercel.app/)
 - Email: sarah.hra06@gmail.com
