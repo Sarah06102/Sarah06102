@@ -14,8 +14,8 @@ Currently studying **Management Engineering @ University of Waterloo**, with int
 ## Skills
 
 **Languages:** JavaScript, Python, SQL, HTML/CSS, TypeScript, R, Java, VBA  
-**Frameworks & Libraries:** React, React Native, Django, Node.js, Express.js, Tailwind CSS
-**Tools:** Git, AWS, Firebase, Figma, Vercel, Render, Railway, GitHub
+**Frameworks & Libraries:** React, React Native, Django, Node.js, Express.js, Tailwind CSS  
+**Tools & Platforms:** Git, AWS, Firebase, Figma, Vercel, Render, Railway, GitHub  
 **Currently Learning:** PyTorch
 
 ## Let's Connect!
